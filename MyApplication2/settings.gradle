@@ -14,3 +14,9 @@ dependencyResolutionManagement {
 }
 rootProject.name = "My Application2"
 include ':app'
+include ':activitylifecycle'
+include ':MultiActivity'
+include ':IntentFilter'
+include ':ToastApp'
+include ':NotificationApp'
+include ':Dialog'
